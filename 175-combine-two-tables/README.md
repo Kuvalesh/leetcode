@@ -63,6 +63,10 @@ Address table:
 | Allen     | Wang     | Null          | Null     |
 | Bob       | Alice    | New York City | New York |
 +-----------+----------+---------------+----------+
+
+
+
+  # FALLS UNDER DATABASE_ SQL
 <strong>Explanation:</strong> 
 There is no address in the address table for the personId = 1 so we return null in their city and state.
 addressId = 1 contains information about the address of personId = 2.
